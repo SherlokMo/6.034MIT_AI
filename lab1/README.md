@@ -1,4 +1,3 @@
-# Topics
-
-* Python programming
-* symbolic algebra
+* Forward chaining
+* backward chaining
+* goal trees	
